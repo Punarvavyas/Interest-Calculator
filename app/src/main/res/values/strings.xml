@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Interest_cal</string>
+    <string name="Ini_Investment">Initial Investment</string>
+    <string name="Reg_pay">Regular Payment</string>
+
+    <string-array name="Payment">
+        <item>Monthly</item>
+        <item>Quarterly</item>
+        <item>Semi-annually</item>
+        <item>Yearly</item>
+    </string-array>
+    <string name="AIR">Annual Interest Rate</string>
+    <string name="YTG">Years to grow</string>
+    <string name="YT"></string>
+    <string name="CalculateBtn">Calculate</string>
+    <string name="CIStr"></string>
+
+</resources>
