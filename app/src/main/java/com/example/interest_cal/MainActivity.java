@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                     freqValue = 4;
                 else if(frequ.equals("Semi-annually"))
                     freqValue = 2;
-                else if(frequ.equals("Annually"))
+                else if(frequ.equals("Yearly"))
                     freqValue = 1;
                 double amount;
                 int p = periodVal;
